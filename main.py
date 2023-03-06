@@ -251,3 +251,5 @@ text_field = Text(height=9, width=28, pady=10, wrap=WORD, foreground=BLUE, font=
 text_field.grid(column=1, row=5, columnspan=2)
 
 window.mainloop()
+
+# make a historical high thing
